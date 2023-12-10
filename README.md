@@ -22,16 +22,16 @@ The dataset contains  Title of the movie,  Studio where the movie was produced, 
 
  Visualizations 
   1. THis bargraph shows the highest top 10 films in  domestic gross revenue.
-  ![Alt text](image-1-1.png)
+ ![Alt text](image.png)
   
   2. THis bargraph shows the highest top 10 films in  foreign gross revenue.
   
-  ![Alt text](foreign_gross_revenue-1.png)
+  ![Alt text](image-1.png)
 
 
   3. This graph shows the top 5 movies produced with the leading studio , Buena Vista according to total gross earnings.
 
-![Alt text](top_5_films_buena_vista-1.png)
+![Alt text](image-2.png)
 
 
 
